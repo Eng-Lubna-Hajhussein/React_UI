@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+button {
+  background-color: transparent;
+  color: var(--gh-blue-5);
+  gap: 8px;
+  border: none;
+  cursor: pointer;
+}
+
+.button-td {
+  padding: 0 10px;
+  width: 2px;
+}

@@ -1,0 +1,92 @@
+export const rows = [
+    {
+      hierarchy: ['Sarah'],
+      jobTitle: 'Head of Human Resources',
+      recruitmentDate: 'Sat Sep 12 2020',
+      id: 0,
+    },
+    {
+      hierarchy: ['Thomas'],
+      jobTitle: 'Head of Sales',
+      recruitmentDate: 'Sat Sep 12 2020',
+      id: 1,
+    },
+    {
+      hierarchy: ['Thomas', 'Robert'],
+      jobTitle: 'Sales Person',
+      recruitmentDate: 'Sat Sep 12 2020',
+      id: 2,
+    },
+    {
+      hierarchy: ['Thomas', 'Karen'],
+      jobTitle: 'Sales Person',
+      recruitmentDate: 'Sat Sep 12 2020',
+      id: 3,
+    },
+    {
+      hierarchy: ['Thomas', 'Nancy'],
+      jobTitle: 'Sales Person',
+      recruitmentDate: 'Sat Sep 12 2020',
+      id: 4,
+    },
+    {
+      hierarchy: ['Thomas', 'Daniel'],
+      jobTitle: 'Sales Person',
+      recruitmentDate: 'Sat Sep 12 2020',
+      id: 5,
+    },
+    {
+      hierarchy: ['Thomas', 'Christopher'],
+      jobTitle: 'Sales Person',
+      recruitmentDate: 'Sat Sep 12 2020',
+      id: 6,
+    },
+    {
+      hierarchy: ['Thomas', 'Donald'],
+      jobTitle: 'Sales Person',
+      recruitmentDate: 'Sat Sep 12 2020',
+      id: 7,
+    },
+    {
+      hierarchy: ['Mary'],
+      jobTitle: 'Head of Engineering',
+      recruitmentDate: 'Sat Sep 12 2020',
+      id: 8,
+    },
+    {
+      hierarchy: ['Mary', 'Jennifer'],
+      jobTitle: 'Tech lead front',
+      recruitmentDate: 'Sat Sep 12 2020',
+      id: 9,
+    },
+    {
+      hierarchy: ['Mary', 'Jennifer', 'Anna'],
+      jobTitle: 'Front-end developer',
+      recruitmentDate: 'Sat Sep 12 2020',
+      id: 10,
+    },
+    {
+      hierarchy: ['Mary', 'Michael'],
+      jobTitle: 'Tech lead devops',
+      recruitmentDate: 'Sat Sep 12 2020',
+      id: 11,
+    },
+    {
+      hierarchy: ['Mary', 'Linda'],
+      jobTitle: 'Tech lead back',
+      recruitmentDate: 'Sat Sep 12 2020',
+      id: 12,
+    },
+    {
+      hierarchy: ['Mary', 'Linda', 'Elizabeth'],
+      jobTitle: 'Back-end developer',
+      recruitmentDate: 'Sat Sep 12 2020',
+      id: 13,
+    },
+    {
+      hierarchy: ['Mary', 'Linda', 'William'],
+      jobTitle: 'Back-end developer',
+      recruitmentDate: 'Sat Sep 12 2020',
+      id: 14,
+    },
+  ];
