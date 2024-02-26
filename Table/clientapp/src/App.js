@@ -11,6 +11,7 @@ import { columns } from "./data/columns";
 function App() {
   return (
     <div className="table-wrapper">
+      
       <Table>
         <TableHead>
           <TableRow>
